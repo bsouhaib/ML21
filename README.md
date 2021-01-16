@@ -16,6 +16,8 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 
 - Week 3 (Feb. 22-28).
 
+Note: Feb. 25, 15:30 (MAB1 Phys. missing)
+
 - Week 4 (Mar. 01-07).
 
 - Week 5 (Mar. 08-14).
@@ -26,11 +28,15 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 
 - Week 8 (Mar. 29 - Apr. 4).
 
+Note: Apr. 2, 15:30 (BAB3 Math. missing)
+
 **Spring Break**
 
 - Week 9 (Apr. 19-25).
 
 - Week 10 (Apr. 26 - May 2).
+
+Note: Apr. 30, 15:30 (MAB1 Phys. missing)
 
 - Week 11 (May 3-9).
 
