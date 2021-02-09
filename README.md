@@ -14,54 +14,54 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 
 - Week 1 (Feb. 1-5). 
   - Lecture 1 (Feb. 1): Introduction [slides](./slides/1-ml-introduction.pdf)
-  - Lecture 2 (Feb. 3):
+  - Lecture 2 (Feb. 3): Review of Probability (sample space and events, probability space, probability axioms and distributions, probability properties, computing the probability of events)
 
 - Week 2 (Feb. 8-14). 
-  - Lab 1 (Feb. 9):
-  - Lecture 3 (Feb. 10):
+  - Lecture 3 (Feb. 9): Conditional probability, independence of events, law of total probability, Bayes' rule, Random variables
+  - Lecture 4 (Feb. 10):
   
 - Week 3 (Feb. 15-21).
-  - Lab 2 (Feb. 15):
-  - Lecture 4 (Feb. 18):
+  - Lab 1 (Feb. 15):
+  - Lecture 5 (Feb. 18):
 
 - Week 4 (Feb. 22-28).
-  - Lab 3 (Feb. 23):
-  - Lecture 5 (Feb. 25):
+  - Lab 2 (Feb. 23):
+  - Lecture 6 (Feb. 25):
 
 Note: Feb. 25, 15:30 (MAB1 Phys. missing)
 
 - Week 5 (Mar. 01-07).
-  - Lab 4 (Mar. 01):
-  - Lab 5 (Mar. 04):
-  - Lecture 6 (Mar. 05):
+  - Lab 3 (Mar. 01):
+  - Lab 4 (Mar. 04):
+  - Lecture 7 (Mar. 05):
 
 - Week 6 (Mar. 08-14).
-  - Lecture 7 (Mar. 08):
-  - Lab 6 (Mar. 08):
+  - Lecture 8 (Mar. 08):
+  - Lab 5 (Mar. 08):
 
 - Week 7 (Mar. 15-21).
-  - Lecture 8 (Mar. 15):
-  - Lab 7 (Mar. 16):
-  - Lecture 9 (Mar. 19):
+  - Lecture 9 (Mar. 15):
+  - Lab 6 (Mar. 16):
+  - Lecture 10 (Mar. 19):
 
 - Week 8 (Mar. 22-28).
-  - Lecture 10 (Mar. 22):
-  - Lab 8 (Mar. 23):
+  - Lecture 11 (Mar. 22):
+  - Lab 7 (Mar. 23):
 
 - Week 9 (Mar. 29 - Apr. 4).
-  - Lab 9 (Mar. 29):
-  - Lecture 11 (Mar. 29):
-  - Lab 10 (Apr. 1):
+  - Lab 8 (Mar. 29):
+  - Lecture 12 (Mar. 29):
+  - Lab 9 (Apr. 1):
 
 Note: Apr. 2, 15:30 (BAB3 Math. missing)
 
 **Spring Break**
 
 - Week 10 (Apr. 19-25).
-  - Lecture 12 (Apr. 19):
   - Lecture 13 (Apr. 19):
-  - Lecture 14 (Apr. 22):
+  - Lecture 14 (Apr. 19):
   - Lecture 15 (Apr. 22):
+  - Lecture 16 (Apr. 22):
   - Lab 11 (Apr. 23):
 
 
