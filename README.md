@@ -13,7 +13,7 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 <!--- THIS YEAER Lectures: 17 - Labs: 14 (30, 30) --->
 
 - Week 1 (Feb. 1-5). 
-  - Lecture 1 (Feb. 1): Introduction [slides](./slides/1-ml-introduction.pdf)
+  - Lecture 1 (Feb. 1): Introduction [[slides]](./slides/1-ml-introduction.pdf)
   - Lecture 2 (Feb. 3): Review of Probability (sample space and events, probability space, probability axioms and distributions, probability properties, computing the probability of events)
 
 - Week 2 (Feb. 8-14). 
@@ -28,7 +28,7 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 
   - Lab 1 (Feb. 25): 
     - (first part) sample statistic, sampling distribution, variance of averages of independent variables, law of large numbers, central limit theorem
-    - (second part) exercises of probability and statistics [lab1](./labs/lab1.pdf)
+    - (second part) exercises of probability and statistics [[lab1]](./labs/lab1.pdf)
 
 - Week 5 (Mar. 01-07).
   - Lab 2 (Mar. 01):
