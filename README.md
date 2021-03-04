@@ -31,9 +31,9 @@ This is a repository to organize the teaching material for [Machine Learning](ht
     - (second part) exercises of probability and statistics [[lab1]](./labs/lab1.pdf)
 
 - Week 5 (Mar. 01-07).
-  - Lab 2 (Mar. 01):
-  - Lab 3 (Mar. 04):
-  - Lecture 6 (Mar. 05):
+  - Lab 2 (Mar. 01): exercises of probability and statistics (continued) 
+  - Lab 3 (Mar. 04): Python tutorial [[lab3]](./labs/python_tutorial.ipynb)
+  - Lecture 6 (Mar. 05): The learning framework
 
 - Week 6 (Mar. 08-14).
   - Lecture 7 (Mar. 08):
