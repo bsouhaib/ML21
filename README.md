@@ -32,7 +32,9 @@ This is a repository to organize the teaching material for [Machine Learning](ht
 
 - Week 5 (Mar. 01-07).
   - Lab 2 (Mar. 01): exercises of probability and statistics (continued) 
-  - Lab 3 (Mar. 04): Python tutorial [[lab3]](./labs/python_tutorial.ipynb)
+  - Lab 3 (Mar. 04): Python tutorial [[lab3]](./labs/python_tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML21/blob/main/labs/python_tutorial.ipynb)
+
+
   - Lecture 6 (Mar. 05): The learning framework
 
 - Week 6 (Mar. 08-14).
