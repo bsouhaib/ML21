@@ -34,7 +34,7 @@ This is a repository to organize the teaching material for [Machine Learning](ht
   - Lab 2 (Mar. 01): exercises of probability and statistics (continued) 
   - Lab 3 (Mar. 04): Python tutorial [[lab3]](./labs/python_tutorial.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML21/blob/main/labs/python_tutorial.ipynb) [[lab1 exercise 9]](./labs/lab1-ex9.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bsouhaib/ML21/blob/main/labs/lab1-ex9.ipynb)
 
-  - Lab 4 (Mar. 05): Exploratory Data Analysis with Pandas (Tutorial) [[lab4]](./labs/eda-pandas.ipynb)  [[Titanic dataset]](./labs/data/titanic.xls)  [[Pokemon dataset]](./labs/data/Pokemon.csv)  
+  - Lab 4 (Mar. 05): Exploratory Data Analysis with Pandas (Tutorial) [[lab4]](./labs/eda-pandas.ipynb)  [[Titanic dataset]](./labs/data/titanic.xls)  [[Pokemon dataset]](./labs/data/Pokemon.csv)   [[lab4]](./labs/eda-pokemon.ipynb)
 
 - Week 6 (Mar. 08-14).
   - Lecture 7 (Mar. 08): The learning framework
