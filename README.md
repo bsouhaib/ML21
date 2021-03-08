@@ -37,8 +37,8 @@ This is a repository to organize the teaching material for [Machine Learning](ht
   - Lab 4 (Mar. 05): Exploratory Data Analysis with Pandas (Tutorial) [[lab4]](./labs/eda-pandas.ipynb)  [[Titanic dataset]](./labs/data/titanic.xls)  [[Pokemon dataset]](./labs/data/Pokemon.csv)   [[EDA pokemon]](./labs/eda-pokemon.ipynb)
 
 - Week 6 (Mar. 08-14).
-  - Lecture 7 (Mar. 08): The learning framework
-  - Lab 4 (Mar. 08):
+  - Lecture 7 (Mar. 08): The learning framework [[slides]](./slides/2-ml-learning-framework.pdf)
+  - Lecture 8 (Mar. 08): The learning framework (continued)
 
 - Week 7 (Mar. 15-21).
   - Lecture 8 (Mar. 15):
